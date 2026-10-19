@@ -1,0 +1,10 @@
+# Local/raw datasets unless explicitly cleared for release
+data/*
+!data/README.md
+*.Rhistory
+.Rproj.user/
+.RData
+.Ruserdata
+.DS_Store
+outputs/
+*.tmp

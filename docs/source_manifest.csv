@@ -1,0 +1,8 @@
+source_filename,repository_path,status,lines,sha256
+(Spatial) Figure for paper 1.R,scripts/original/paper1_figure_workflow_original.R,Paper 1 candidate — figure matching pending,1732,90df6bed06a95335d90b609c8ea9b9b680229c3522e3886367c3e45e45044f2c
+global moran.R,scripts/original/global_moran_original.R,Paper 1 candidate — figure matching pending,354,c96589ae41293ae0fb6cb6057ae1ca6c60943cab4872e2ae262ca1e8f1a35a74
+local moran.R,scripts/original/local_moran_original.R,Paper 1 candidate — figure matching pending,176,0489819398f772b0e71a1d6764b4e791a0daeaccd582dcff89502f2425b39f1b
+local moran summary.R,scripts/original/local_moran_summary_original.R,Paper 1 candidate — figure matching pending,289,cd083b387c15d6e41e5592c092de44859163067dd6b6e2fb5e398191ac31e765
+contribution (1).R,scripts/original/spatial_contribution_original.R,Paper 1 candidate — figure matching pending,296,7d419b34a67c370af262fbcd23914bd8884f70771b16c3bfc20bd8ce0563e8e5
+chungcheongnam-do water contaminants ratio.R,scripts/review_candidates/contaminant_counts_review.R,Unconfirmed relevance — review before using,326,21c77db0bca062ba399a50973fb3c411f34137acac0588072eea2d323669bd49
+LOCAL BBCOUNT.R,scripts/review_candidates/geology_data_preparation_review.R,Unconfirmed relevance — review before using,94,62713872d37954c3010510daec6da88a806c8fb03d50f0014443f1aa06109c17
